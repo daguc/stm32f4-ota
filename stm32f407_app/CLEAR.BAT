@@ -1,0 +1,9 @@
+del *.mxproject /s
+del *.scratch /s
+del *.dep /s
+del *.ewt /s
+del *.browse /s
+del *.cout /s
+del *.o /s
+del *.pbd /s
+del *pbi /s
